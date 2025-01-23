@@ -37,3 +37,7 @@ actualizar la lista de amigos y la función para sortear los amigos.
 > * Generar un índice aleatorio
 > * Obtener el nombre sorteado
 > * Mostrar el resultado
+
+## Sponsors
+
+<a href="https://www.aluracursos.com/" target="_blank"><img width=64px height=64px src="https://www.aluracursos.com/assets/img/alura-share.1730889068.png"></a>        <a href="" target="_blank"><img width=180px height=64px src="https://www.oracle.com/a/ocom/img/rh03-one-logo-with-slogan-lad.png"></a>
