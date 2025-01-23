@@ -38,6 +38,15 @@ actualizar la lista de amigos y la función para sortear los amigos.
 > * Obtener el nombre sorteado
 > * Mostrar el resultado
 
+## Consideraciones
+El proyecto cumple con las especificaciones requeridas por lo que no se le añadieron funciones extras. Por este motivo,
+existen algunas peculiaridades tales como
+> * Se le pueden seguir agregando nombres aunque ya se haya sorteado al amigo secreto.
+> * Se puede seguir sorteando el amigo secreto.
+> * La validación de entrada solo valida cadenas vacias, sin embargo, permite números de entrada.
+> * No existe un boton de reinicio.
+
+
 ## Sponsors
 
 <a href="https://www.aluracursos.com/" target="_blank"><img width=64px height=64px src="https://www.aluracursos.com/assets/img/alura-share.1730889068.png"></a>        <a href="" target="_blank"><img width=180px height=64px src="https://www.oracle.com/a/ocom/img/rh03-one-logo-with-slogan-lad.png"></a>
