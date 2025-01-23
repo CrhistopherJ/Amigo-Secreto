@@ -52,7 +52,6 @@ function sortearAmigo(){
     }else{
         let numeroGanador, amigoGanador, resultado;
         numeroGanador=parseInt(Math.floor(Math.random()*numeroDeAmigos));
-        console.log(numeroGanador);
         amigoGanador=amigos[numeroGanador];
         resultado=document.getElementById('resultado');
         resultado.innerHTML="El ganador es: "+ amigoGanador;
