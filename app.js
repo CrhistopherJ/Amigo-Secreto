@@ -54,7 +54,7 @@ function sortearAmigo(){
         numeroGanador=parseInt(Math.floor(Math.random()*numeroDeAmigos));
         amigoGanador=amigos[numeroGanador];
         resultado=document.getElementById('resultado');
-        resultado.innerHTML="El ganador es: "+ amigoGanador;
+        resultado.innerHTML="El amigo secreto sorteado es: "+ amigoGanador;
     }
 
 }
